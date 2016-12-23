@@ -1,3 +1,3 @@
 # hello-world
 A start of something new
-Hoping to go indepth with python leading to C++
+A strong interest in web development and new functions
